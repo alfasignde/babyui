@@ -1,0 +1,15 @@
+{
+  "DARK": "Oscuro",
+  "FEEDBACK_MESSAGE": "Este botón comparte los resultados de la ejecución con el desarrollador.",
+  "FEEDBACK_SUBMITTED_TOAST": "¡Gracias! ",
+  "GPT_4_WARNING": "🚨 ¡EL USO DE GPT-4 POTENCIALMENTE CARO, ASÍ QUE CONTROLA TUS COSTOS!",
+  "INFINITY": "Infinidad",
+  "LIGHT": "Luz",
+  "SYSTEM": "Sistema",
+  "UNTIL_ALL_TASKS_COMPLETED": "Hasta Todas las tareas completadas",
+  "NOTIFICATION": "Notificación",
+  "NOTIFICATION_LABEL": "🔔 Todas las tareas completadas",
+  "NOTIFICATION_TITLE": "¡Tarea completada!",
+  "NOTIFICATION_NOT_SUPPORTED": "Este navegador no admite notificaciones de escritorio.",
+  "NOTIFICATION_DINIED": "Denegó el permiso de notificación. Por favor, permítalo en la configuración del navegador."
+}

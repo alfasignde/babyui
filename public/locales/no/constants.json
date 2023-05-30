@@ -1,0 +1,15 @@
+{
+  "DARK": "Mørk",
+  "FEEDBACK_MESSAGE": "Denne knappen deler utførelsesresultatene med utvikleren.",
+  "FEEDBACK_SUBMITTED_TOAST": "Takk skal du ha! ",
+  "GPT_4_WARNING": "🚨 Å BRUKE GPT-4 POTENSIELT DYRT SÅ OVERVÅK KOSTNADENE DINE!",
+  "INFINITY": "evighet",
+  "LIGHT": "Lys",
+  "SYSTEM": "System",
+  "UNTIL_ALL_TASKS_COMPLETED": "Inntil alle oppgaver er fullført",
+  "NOTIFICATION": "Varsel",
+  "NOTIFICATION_LABEL": "🔔 Alle oppgaver fullført",
+  "NOTIFICATION_TITLE": "Oppgave fullført!",
+  "NOTIFICATION_NOT_SUPPORTED": "Denne nettleseren støtter ikke skrivebordsvarsler.",
+  "NOTIFICATION_DINIED": "Du nektet varslingsrettigheten. Vennligst tillat det i nettleserinnstillingene."
+}

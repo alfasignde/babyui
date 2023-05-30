@@ -1,0 +1,15 @@
+{
+  "DARK": "Buio",
+  "FEEDBACK_MESSAGE": "Questo pulsante condivide i risultati dell'esecuzione con lo sviluppatore.",
+  "FEEDBACK_SUBMITTED_TOAST": "Grazie! ",
+  "GPT_4_WARNING": "🚨 L'UTILIZZO DI GPT-4 POTENZIALMENTE COSTOSO QUINDI MONITORA I TUOI COSTI!",
+  "INFINITY": "Infinito",
+  "LIGHT": "Leggero",
+  "SYSTEM": "Sistema",
+  "UNTIL_ALL_TASKS_COMPLETED": "Fino al completamento di tutte le attività",
+  "NOTIFICATION": "Notifica",
+  "NOTIFICATION_LABEL": "🔔 Tutti i compiti completati",
+  "NOTIFICATION_TITLE": "Compito completato!",
+  "NOTIFICATION_NOT_SUPPORTED": "Questo browser non supporta le notifiche desktop.",
+  "NOTIFICATION_DINIED": "Hai negato il permesso di notifica. Si prega di consentirlo nelle impostazioni del browser."
+}

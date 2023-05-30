@@ -1,0 +1,15 @@
+{
+  "DARK": "Gelap",
+  "FEEDBACK_MESSAGE": "Tombol ini membagikan hasil eksekusi dengan pengembang.",
+  "FEEDBACK_SUBMITTED_TOAST": "Terima kasih! ",
+  "GPT_4_WARNING": "🚨 MENGGUNAKAN GPT-4 BERPOTENSI MAHAL JADI PANTAU BIAYA ANDA!",
+  "INFINITY": "Ketakterbatasan",
+  "LIGHT": "Lampu",
+  "SYSTEM": "Sistem",
+  "UNTIL_ALL_TASKS_COMPLETED": "Sampai Semua tugas selesai",
+  "NOTIFICATION": "Notifikasi",
+  "NOTIFICATION_LABEL": "🔔 Semua tugas selesai",
+  "NOTIFICATION_TITLE": "Tugas selesai!",
+  "NOTIFICATION_NOT_SUPPORTED": "Browser ini tidak mendukung notifikasi desktop.",
+  "NOTIFICATION_DINIED": "Anda menolak izin notifikasi. Silakan izinkan di pengaturan browser."
+}
